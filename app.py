@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # Load the model
-model = pickle.load(open(r'D:\Heart_Failure_Prediction_model.sav','rb'))
+model = pickle.load(open('Heart_Failure_Prediction_model.sav','rb'))
 
 # UI Title and Info
 st.title("💓 Heart Disease Prediction Web App")
