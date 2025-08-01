@@ -1,4 +1,4 @@
-# Heart Failure Prediction App
+# Heart Failure Prediction App Using Streanlit
 **This app allows you to enter patient details as:**
 
 * Age
@@ -23,4 +23,4 @@
 
 **to predict the risk of heart failure**
 
-[Click here](https://haneenmohamed25-heart-disease-app-app-hioudv.streamlit.app/)to have a look
+[Click here](https://haneenmohamed25-heart-disease-app-app-hioudv.streamlit.app/) to have a look
