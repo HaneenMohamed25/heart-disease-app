@@ -1,8 +1,9 @@
 # Heart Failure Prediction App
 **This app allows you to enter patient details as:**
-*Age*
 
-*Sex*
+*Age
+
+*Sex
 
 *Chest Pain Type*
 
@@ -21,4 +22,5 @@
 *ST Slope*
 
 **to predict the risk of heart failure**
+
 [Click here](https://haneenmohamed25-heart-disease-app-app-hioudv.streamlit.app/)to have a look
