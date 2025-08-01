@@ -1,25 +1,24 @@
 # Heart Failure Prediction App
 **This app allows you to enter patient details as:**
 
-*Age
+* Age
 
-*Sex
+* Sex
+_  Chest Pain Type
 
-*Chest Pain Type*
+_ Resting Blood Pressure (mm Hg)
 
-*Resting Blood Pressure (mm Hg)*
+*Cholesterol (mg/dl)
 
-*Cholesterol (mg/dl)*
+*Fasting Blood Sugar > 120 mg/dl
 
-*Fasting Blood Sugar > 120 mg/dl*
+*Resting ECG
 
-*Resting ECG*
+*Max Heart Rate Achieved
 
-*Max Heart Rate Achieved*
+*Exercise-Induced AnginaOldpeak (ST depression)
 
-*Exercise-Induced AnginaOldpeak (ST depression)*
-
-*ST Slope*
+*ST Slope
 
 **to predict the risk of heart failure**
 
